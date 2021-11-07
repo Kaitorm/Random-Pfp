@@ -2,7 +2,7 @@
 
 A Discord bot that sends a random pfp in a channel every x seconds.
 
-A question or a suggestion? Tell us here » https://discord.gg/nCQDwTwak3 !
+A question or a suggestion? Tell us here » https://discord.gg/kaito-dev !
 
 ### Utilisation
 
